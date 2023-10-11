@@ -21,8 +21,8 @@ India has become an attractive location for investors and has seen a number of s
 
 
 
-## Hypothesis
+##  Hypothesis
 
-NULL : Technological industries do not have a higher success rate of being funded
+NULL :  Technological industries do not have a higher success rate of being funded
 
 ALTERNATE : Technological industries have a higher success rate of being funded
